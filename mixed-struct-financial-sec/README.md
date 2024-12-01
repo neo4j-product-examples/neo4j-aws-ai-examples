@@ -1,0 +1,3 @@
+# Amazon & Neo4j AI: Document Data (Commercial Contracts)
+
+Demonstrates how to build agentic AI apps on top of documents with repeated lexical structure - i.e. documents sharing similar hierarchical/section structure, components, and/or conceptual breakdown.  Applicable to documents like legal contracts, product catalogs, user manuals and more. This example uses commercial contracts to demonstrate.

@@ -1,0 +1,3 @@
+# Amazon & Neo4j AI: Mixed Structured Data (Finserv)
+
+Demonstrates how to build an AI apps on top of mixed data - where documents are connected by structured data. This is akin to structured tables linking to unstructured text fields. Leverages United States Security & Exchange Commission (SEC) company filings data.  Semi-structured data comes from form13 Asset manager ownership data while unstructured text comes from  form10k sections.
