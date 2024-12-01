@@ -1,0 +1,3 @@
+[submodule "mixed-struct-financial-sec/genai-app"]
+	path = mixed-struct-financial-sec/genai-app
+	url = https://github.com/neo4j-partners/neo4j-generative-ai-aws
