@@ -6,3 +6,4 @@ data/
 *.csv
 *.env
 .DS_Store
+.ipynb_checkpoints/
